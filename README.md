@@ -42,7 +42,7 @@ This project implements an RPN calculator with the following features:
 3. Start Application 
 
     ```bash
-    pip install -r requirements.txt
+    uvicorn app.main:app --reload --port 8080
 
 ## Usage
 
