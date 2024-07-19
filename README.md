@@ -31,8 +31,8 @@ This project implements an RPN calculator with the following features:
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/your-username/rpn-calculator.git
-    cd rpn-calculator
+    git clone https://github.com/rahmedn/RPN-APP.git
+    cd RPN-APP
 
 2. Install the dependencies
     
